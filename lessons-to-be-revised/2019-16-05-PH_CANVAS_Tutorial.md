@@ -3,7 +3,7 @@ layout: post
 title: "Canvas - Assignment Process and Tips" 
 date:   2019-05-16 10:00:00
 category: tutorials
-author: "Forrest Busching, Mark Garcia, Ty Melancon, & Thomas Wonser" 
+author: "Forrest Busching, Mark Garcia, Ty Melancon, Thomas Wonser & edited by Raymond Rau" 
 ---
 
 ![picture1](https://github.com/RaymondRau/e235/blob/master/canvas-logo-centered-very-light-gray.jpg.3.2x.generic.jpg)
@@ -44,7 +44,7 @@ There is a file storage area in the Canvas app that acts as a hub for you to use
 When you first open your Canvas app, you will be greeted by this screen
 
 
-To get to the menu we want, select the three bars in the top left hand corner by tapping on it once with your finge
+To get to the menu we want, select the three bars in the top left hand corner by tapping on it once with your finger
 
 
 Now this will bring up a menu that has a number of choices. The one we are concerned with is the FILES tab. Select this tab by tapping it once with your finger.
